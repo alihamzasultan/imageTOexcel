@@ -8,7 +8,7 @@ import pandas as pd
 import re
 
 import re
-GOOGLE_API_KEY = "AIzaSyDSdQssjbwc-I-4aHQyi2MS-etlbKD92mY"
+GOOGLE_API_KEY = "AIzaSyBfEACHY99TLkwX9wjKzb-TGhLsECfhpGc"
 
 # Configure the google.generativeai client with the API key
 genai.configure(api_key=GOOGLE_API_KEY)
